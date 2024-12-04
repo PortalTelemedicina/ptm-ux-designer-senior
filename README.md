@@ -3,7 +3,7 @@
 Você foi contratado para projetar a página inicial de um sistema médico, que será a **primeira interface visualizada pelo paciente sempre que acessar a plataforma**. Essa página inicial deve permitir que o paciente tenha uma visão clara e objetiva de suas informações principais e funcionalidades disponíveis, promovendo uma experiência intuitiva.
 
 #### Objetivo:
-Desenvolver um protótipo de **baixa fidelidade** para a página inicial do sistema, onde o paciente poderá:
+Desenvolver um protótipo de **baixa fidelidade** ou **alta fidelidade**  para a página inicial do sistema, onde o paciente poderá:
 
 1. **Visualizar dados de exames realizados:** exibir informações relevantes, como tipo de exame, data e resultado de forma resumida.
 2. **Acessar solicitações de atendimento:** permitir que o paciente visualize ou inicie uma solicitação de atendimento médico.
@@ -17,7 +17,7 @@ Desenvolver um protótipo de **baixa fidelidade** para a página inicial do sist
 4. **Mobile-first:** priorizar uma abordagem para dispositivos móveis, mas considerando adaptabilidade para desktop.
 
 #### Entregáveis:
-1. **Protótipo de baixa fidelidade:** Pode ser feito no papel, em ferramentas simples como Miro ou FigJam, ou em softwares como Figma, Sketch ou Adobe XD.
+1. **Protótipo de baixa ou alta fidelidade:** Pode ser feito no papel, em ferramentas simples como Miro ou FigJam, ou em softwares como Figma, Sketch ou Adobe XD.
 2. **Descrição de design:** Um documento breve ou uma apresentação simples que explique:
     - Por que o design foi pensado dessa forma.
     - Como ele facilita a experiência do paciente ao usar a plataforma.
